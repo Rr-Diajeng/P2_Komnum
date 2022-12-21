@@ -23,7 +23,7 @@
 ``` Volt
 double f(double x) {
   // Definisi fungsi
-	return 1/ (1 + x); // Contoh: integrasikan 1 / (1 + x) dari 0 hingga 1
+  return 1/ (1 + x); // Contoh: integrasikan 1 / (1 + x) dari 0 hingga 1
 }
 
 double a = 0; // Batas bawah integrasi
