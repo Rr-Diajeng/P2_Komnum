@@ -85,7 +85,7 @@ double f(double x) {
 }
 
 double romberg(double a, double b, int n) {
-double R[n + 1][n + 1]; // 2D array untuk menyimpan hasil intermediate
+	double R[n + 1][n + 1]; // 2D array untuk menyimpan hasil intermediate
 
   // Inisialisasi array dengan hasil aturan trapezoidal
 	for (int i = 1; i <= n; i++) {
