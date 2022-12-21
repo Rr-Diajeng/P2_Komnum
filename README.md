@@ -54,7 +54,7 @@ for (int j = 1; j <= pow(2, i - 1); j++) {
 R[i][1] = sum;
 ```
 
-### 4. Kita gunakan metode ekstrapolasi Richardson untuk meningkatkan akurasi integrasi. Metode ekstrapolasi Richardson adalah teknik untuk memperkirakan nilai suatu fungsi pada tingkat ketelitian yang lebih tinggi dengan menggunakan nilai fungsi pada pada tingkat ketelitian yang lebih rendah. 
+### 4. Kita gunakan metode ekstrapolasi Richardson untuk meningkatkan akurasi integrasi. Metode ekstrapolasi Richardson adalah teknik untuk memperkirakan nilai suatu fungsi pada tingkat ketelitian yang lebih tinggi dengan menggunakan nilai fungsi pada tingkat ketelitian yang lebih rendah. 
 
 ``` Volt
 // Gunakan metode ekstrapolasi Richardson untuk meningkatkan akurasi
