@@ -72,7 +72,7 @@ for (int i = 2; i <= n; i++) {
 double result = R[n][n]; // Final result
 ```
 
-### Complete code
+## Complete code
 
 ``` Volt
 #include <cmath>
